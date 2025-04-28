@@ -52,15 +52,9 @@ Design and simulate a 6-bit fully differential current-steering DAC suitable for
 
 ```
 ├── Sleep-Prevention-Alarm/
-│   ├── circuit-schematics/
-│   ├── simulation-files/
-│   ├── documentation/
-│   └── results/
+│   ├── report with simulations/
 ├── 6bit-Current-Steering-DAC/
-│   ├── ltspice-schematics/
-│   ├── simulation-results/
-│   ├── performance-analysis/
-│   └── documentation/
+│   ├── report with simulations/
 └── README.md
 ```
 
